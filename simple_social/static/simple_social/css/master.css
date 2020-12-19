@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: black;
+  color:white;
+  font-family: 'Audiowide', cursive;
+  font-size: 20px;
+}
+
+li a:hover {
+  color: rgb(3,244,252);
+}
+
+#home-header{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgb(3,244,252);
+    text-size: 3em;
+}
+
+.btn{
+    background: rgb(3,244,252,0.7);
+    color: white;
+    cursor: pointer;
+    padding: 15px 32px;
+    font-size: 24px;
+    font-family: 'Audiowide', cursive;
+}
+
+.card{
+    background: rgb(179,245,245);
+    border: 2px solid rgb(3,244,252);
+    color: black;
+
+}
